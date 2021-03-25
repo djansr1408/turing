@@ -23,6 +23,7 @@ Create folder data/zipped, download from http://insideairbnb.com/get-the-data.ht
 - listings.csv.gz
 - reviews.csv.gz
 - calendar.csv.gz 
+
 and extract them.
 
 After that you can run:
